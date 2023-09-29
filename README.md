@@ -17,7 +17,7 @@ Hello! I'm María Zapico Cabeza, a 3rd-year student in Data Science and Engineer
 
 - Email: mariazapicocabeza@gmail.com
 - Instagram: _memeri
-- LinkedIn: [Maria Zapico Cabeza]((https://www.linkedin.com/in/maría-zapico-cabeza-5b2bb9232/))
+- LinkedIn: [Maria Zapico Cabeza]((https://www.linkedin.com/in/maria-zapico-cabeza)
 
 ## Goals
 
