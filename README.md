@@ -15,23 +15,6 @@
   Pronouns: She/Her
 
 ---
-
-## 🛠 Technical Skills
-
-- **Programming Languages:**  
-  Python, R, SQL, HTML, CSS, JavaScript
-
-- **Data Visualization Tools:**  
-  Tableau, Power BI
-
-- **Networking Tools:**  
-  Cisco Packet Tracer
-
-- **Other Tools:**  
-  MATLAB, Linux
-
----
-
 ## 💼 Experience
 
 ### Internship at Accenture
@@ -40,6 +23,17 @@
   - Applied causality techniques to solve complex problems.
   - Developed Python code to represent causal relationships in graphs.
   - Conducted Pareto analysis and other causality techniques applied to time series data.
+  - **Tasks performed:**
+    - Data engineering, including the design, development, and implementation of tasks such as data integration from various sources.
+    - Implemented and designed statistical and machine learning tools to develop and validate new algorithms and methodologies.
+    - Developed mathematical models to simulate possible outcomes in real-life problems, optimizing decision-making processes.
+    - Automated and visualized analyses, results, and processes to meet specific business needs.
+    - Created interactive dashboards using various data visualization tools.
+    - Utilized effective communication skills to gather and understand functional (business) requirements.
+    - Contributed to innovative engineering, design, and strategy, sharing knowledge within internal networks and special interest groups.
+    - Recommended improvements to enhance data reliability, efficiency, and quality.
+    - Collaborated closely with data architects, modelers, and IT team members to meet project goals.
+    - Developed frontend and backend components, including API integrations, to enhance application functionality.
 
 ---
 
