@@ -3,12 +3,7 @@
 Hello! I'm María Zapico Cabeza, a 3rd-year student in Data Science and Engineering at the UUniversidad de Oviedo. I have a passion for data analysis and data visualization as tools to understand the world around us and solve complex problems. In this repository, you'll find a sample of my projects and work related to data analysis.
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=41986369&limit=30" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=30&image_size=auto&color_scheme=dark" width="655" height="auto">
-    <img alt="Active Contributors of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=30&image_size=auto&color_scheme=light" width="655" height="auto">
-  </picture>
-</a>
+[![Active Contributors of pingcap/tidb - Last 28 days](https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=30&image_size=auto&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=41986369&limit=30)
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 ## Technical Skills
