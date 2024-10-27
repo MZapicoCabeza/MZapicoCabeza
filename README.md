@@ -27,6 +27,8 @@ Hello! I'm María Zapico Cabeza, a 4st-year Data Science and Engineering student
 ### Repository Performance Statistics - Last 28 Days
 [![Performance Stats](https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=YOUR_REPO_ID&image_size=auto&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=YOUR_REPO_ID)
 
+![Languages](https://img.shields.io/github/languages/top/MZapicoCabeza/StoreManager)
+
 ---
 
 ## 📫 Contact Me
