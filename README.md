@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: center;">
 
   <div style="flex: 1; padding: 10px;">
-    <img src="ruta/a/tu/imagen.jpg" alt="Descripción de la imagen" style="max-width: 100%; height: auto;" />
+    <img src="ruta/a/tu/imagen.jpg" />
   </div>
 
   <div style="flex: 2; padding: 10px;">
