@@ -16,24 +16,46 @@
 
 ---
 ## 💼 Experience
+## Accenture GenAI Internship
 
-### Internship at Accenture
-- **Role:** Data Analyst Intern  
-- **Responsibilities:**
-  - Applied causality techniques to solve complex problems.
-  - Developed Python code to represent causal relationships in graphs.
-  - Conducted Pareto analysis and other causality techniques applied to time series data.
-  - **Tasks performed:**
-    - Data engineering, including the design, development, and implementation of tasks such as data integration from various sources.
-    - Implemented and designed statistical and machine learning tools to develop and validate new algorithms and methodologies.
-    - Developed mathematical models to simulate possible outcomes in real-life problems, optimizing decision-making processes.
-    - Automated and visualized analyses, results, and processes to meet specific business needs.
-    - Created interactive dashboards using various data visualization tools.
-    - Utilized effective communication skills to gather and understand functional (business) requirements.
-    - Contributed to innovative engineering, design, and strategy, sharing knowledge within internal networks and special interest groups.
-    - Recommended improvements to enhance data reliability, efficiency, and quality.
-    - Collaborated closely with data architects, modelers, and IT team members to meet project goals.
-    - Developed frontend and backend components, including API integrations, to enhance application functionality.
+### Role: Data Analyst Intern
+
+During my internship at Accenture, I gained hands-on experience working with various Generative AI (GenAI) models, including OpenAI, LLaMA, Hugging Face, and Azure. My responsibilities included performing fine-tuning of these models and executing deep learning inference tasks, among other GenAI-related activities.
+
+---
+
+### Responsibilities:
+- Applied causality techniques to solve complex problems.
+- Developed Python code to represent causal relationships in graphs.
+- Conducted Pareto analysis and other causality techniques applied to time series data.
+
+### Tasks Performed:
+- **Data Engineering:** Designed, developed, and implemented tasks for data integration from various sources.
+- **Statistical & Machine Learning Tools:** Implemented and designed tools to develop and validate new algorithms and methodologies.
+- **Mathematical Modeling:** Developed models to simulate possible outcomes in real-life problems, optimizing decision-making processes.
+- **Automation & Visualization:** Automated and visualized analyses, results, and processes to meet specific business needs.
+- **Dashboard Creation:** Created interactive dashboards using various data visualization tools.
+- **Effective Communication:** Utilized communication skills to gather and understand functional (business) requirements.
+- **Innovative Engineering:** Contributed to innovative engineering, design, and strategy, sharing knowledge within internal networks and special interest groups.
+- **Quality Improvement Recommendations:** Recommended improvements to enhance data reliability, efficiency, and quality.
+- **Collaboration:** Worked closely with data architects, modelers, and IT team members to meet project goals.
+- **Component Development:** Developed frontend and backend components, including API integrations, to enhance application functionality.
+
+---
+
+### Skills Developed:
+- Proficient in Python for data analysis and model implementation.
+- Experience with fine-tuning GenAI models and applying deep learning techniques.
+- Strong understanding of data visualization tools and dashboard creation.
+- Ability to apply statistical methods to real-world datasets and derive actionable insights.
+
+### Technologies & Tools:
+- OpenAI API
+- LLaMA
+- Hugging Face Transformers
+- Azure Machine Learning
+- Python (Pandas, NumPy, Matplotlib, etc.)
+- Data visualization tools (e.g., Tableau, Power BI)
 
 ---
 
