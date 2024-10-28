@@ -7,10 +7,9 @@
   Hello! I'm María Zapico Cabeza, a 4th-year Data Science and Engineering student at the University of Oviedo. I am passionate about data analysis and visualization as tools for understanding the world and solving complex problems. In this portfolio, you'll find examples of my projects and work related to data analysis. 
     </p>
 
-
----
-**---**
----
+<p>   </p>
+<p>   </p>
+<p>   </p>
 ## 📊 Overview
 
 - **Education:**  
