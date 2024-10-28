@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: center;">
 
   <div style="flex: 1; padding: 10px;">
-    <img src="ruta/a/tu/imagen.jpg" />
+    <img src="[ruta/a/tu/imagen.jpg](https://cdn.discordapp.com/attachments/980785854714900564/1300191426319220756/9da4bf674497c26187f5c08869f187bf.png?ex=672099e0&is=671f4860&hm=346217efbf5a0ad754eed5fe008669bffb4242b35a7bdb7c695683e54d616f6f&)" />
   </div>
 
   <div style="flex: 2; padding: 10px;">
