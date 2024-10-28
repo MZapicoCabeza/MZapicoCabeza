@@ -1,17 +1,11 @@
 # María Zapico Cabeza - Data Science and Engineering Portfolio
 
 
-<div style="display: flex; align-items: center;">
+<p>
+  <img src="https://cdn.discordapp.com/attachments/980785854714900564/1300191426319220756/9da4bf674497c26187f5c08869f187bf.png?ex=672099e0&is=671f4860&hm=346217efbf5a0ad754eed5fe008669bffb4242b35a7bdb7c695683e54d616f6f&" align="right" alt="María Zapico Cabeza" style="max-width: 150px; height: auto; margin-left: 10px;"/>
+  
+  Hello! I'm María Zapico Cabeza, a 4th-year Data Science and Engineering student at the University of Oviedo. I am passionate about data analysis and visualization as tools for understanding the world and solving complex problems. In this portfolio, you'll find examples of my projects and work related to data analysis. 
 
-  <div style="flex: 1; padding: 10px;">
-    <img src="https://cdn.discordapp.com/attachments/980785854714900564/1300191426319220756/9da4bf674497c26187f5c08869f187bf.png?ex=672099e0&is=671f4860&hm=346217efbf5a0ad754eed5fe008669bffb4242b35a7bdb7c695683e54d616f6f&" alt="María Zapico Cabeza" style="max-width: 100%; height: auto;" />
-  </div>
-
-  <div style="flex: 2; padding: 10px;">
-    <div style="text-align: right; font-size: small; margin-bottom: 10px;">
-      <strong>María Zapico Cabeza - Data Science and Engineering Portfolio</strong>
-    </div>
-    <p>
       Hello! I'm María Zapico Cabeza, a 4th-year Data Science and Engineering student at the University of Oviedo. I am passionate about data analysis and visualization as tools for understanding the world and solving complex problems. In this portfolio, you'll find examples of my projects and work related to data analysis.
     </p>
 
