@@ -1,11 +1,4 @@
 # María Zapico Cabeza - Data Science and Engineering Portfolio
-
-
-
-
-
-<p>
-
   <img src="https://cdn.discordapp.com/attachments/980785854714900564/1300191426319220756/9da4bf674497c26187f5c08869f187bf.png?ex=672099e0&is=671f4860&hm=346217efbf5a0ad754eed5fe008669bffb4242b35a7bdb7c695683e54d616f6f&" align="right" alt="María Zapico Cabeza" style="width: 250px; height: auto; margin-left: 10px;"/>
 
   
